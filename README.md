@@ -26,12 +26,12 @@ It is part of Elzero Web School training projects aimed at improving front-end d
 ---
 
 ## 📷 Preview
-![img](images/home.png)
+![img](imgs/home.png)
 
 ---
 
 ## 🚀 Live Demo
-[Click here to view project](#)
+(https://mahmoudkourd2004-prog.github.io/elzero-template/)
 
 ---
 
